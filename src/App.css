@@ -1,33 +1,63 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#container{
+  margin: 0;
+  background-color: #2ECC71;
+  font-family: 'Lato', sans-serif;
+  height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
 }
-
-.App-link {
-  color: #61dafb;
+header{
+  font-size: 2em;
+  font-family: 'Bowlby One', cursive;
+  text-align: center;
 }
+h1{
+  font-size: 1.5em;
+  margin-bottom: .3em
+}
+h2{
+  font-size: 1em;
+}
+.App {
+  background-color: white;
+  width: 30em;
+  border-radius: 5px;
+  margin: none auto;
+  padding: 30px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+#text{
+  text-align: center;
+}
+#author{
+  text-align: right;
+}
+#buttons{
+}
+#tweet-quote{
+  font-size: 2em;
+  text-align: left;
+}
+#new-quote{
+  float: right;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 15px;
+}
+#new-quote:hover{
+  opacity: 0.9;
+}
+footer{
+  text-align: center;
+  font-family: 'Bowlby One', cursive;
+  padding-top: 1em;
+}
+#footer-link{
+  text-decoration: none;
+  color: black;
+}
+#footer-link:hover{
+  opacity: 0.8;
 }
