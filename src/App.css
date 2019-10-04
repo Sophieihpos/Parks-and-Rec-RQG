@@ -33,12 +33,14 @@ h2{
 }
 #author{
   text-align: right;
-}
-#buttons{
+  font-family: 'Bowlby One', cursive;
 }
 #tweet-quote{
-  font-size: 2em;
+  font-size: 2.3em;
   text-align: left;
+}
+#tweet-quote:hover{
+  opacity: 0.9;
 }
 #new-quote{
   float: right;
@@ -46,6 +48,7 @@ h2{
   border-radius: 3px;
   padding: 10px 15px;
   outline: none;
+  font-weight: bold;
 }
 #new-quote:hover{
   opacity: 0.9;
