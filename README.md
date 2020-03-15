@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Parks and Recreation Random Quote Generator
 
-Created for the Free Code Camp Front End Libraries Cert and inspired by the wonderful show Parks and Recreation.
+Created for the Free Code Camp Front End Libraries Cert and inspired by the wonderful show Parks and Recreation. [https://sophieihpos.github.io/Parks-and-Rec-RQG/](https://sophieihpos.github.io/Parks-and-Rec-RQG/)
