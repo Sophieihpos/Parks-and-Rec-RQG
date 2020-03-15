@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Parks-and-Rec-RQG/precache-manifest.816ea1bb228f0e604f8d7cadfb62d71a.js"
+  "/Parks-and-Rec-RQG/precache-manifest.4fa3e77e7a562a27486e2a8e611b060a.js"
 );
 
 self.addEventListener('message', (event) => {
