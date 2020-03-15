@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Parks-and-Rec-RQG/static/css/main.53fae680.chunk.css",
+    "main.js": "/Parks-and-Rec-RQG/static/js/main.085b85e2.chunk.js",
+    "main.js.map": "/Parks-and-Rec-RQG/static/js/main.085b85e2.chunk.js.map",
+    "runtime-main.js": "/Parks-and-Rec-RQG/static/js/runtime-main.64a30474.js",
+    "runtime-main.js.map": "/Parks-and-Rec-RQG/static/js/runtime-main.64a30474.js.map",
+    "static/js/2.1c76ce2c.chunk.js": "/Parks-and-Rec-RQG/static/js/2.1c76ce2c.chunk.js",
+    "static/js/2.1c76ce2c.chunk.js.map": "/Parks-and-Rec-RQG/static/js/2.1c76ce2c.chunk.js.map",
+    "index.html": "/Parks-and-Rec-RQG/index.html",
+    "precache-manifest.816ea1bb228f0e604f8d7cadfb62d71a.js": "/Parks-and-Rec-RQG/precache-manifest.816ea1bb228f0e604f8d7cadfb62d71a.js",
+    "service-worker.js": "/Parks-and-Rec-RQG/service-worker.js",
+    "static/css/main.53fae680.chunk.css.map": "/Parks-and-Rec-RQG/static/css/main.53fae680.chunk.css.map",
+    "static/js/2.1c76ce2c.chunk.js.LICENSE.txt": "/Parks-and-Rec-RQG/static/js/2.1c76ce2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64a30474.js",
+    "static/js/2.1c76ce2c.chunk.js",
+    "static/css/main.53fae680.chunk.css",
+    "static/js/main.085b85e2.chunk.js"
+  ]
+}
